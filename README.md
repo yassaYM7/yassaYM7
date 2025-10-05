@@ -1,7 +1,8 @@
+![blue-background-vector-png-7](https://github.com/user-attachments/assets/d90d52cd-c4d2-4751-9c0f-55a7b95367a7)
 
 
-# 💫 About Me:
-Hi there! I'm **Yassa Mouris**, a passionate **Software Developer** and **Management Information Systems graduate** from the Egyptian Russian University 🇪🇬 🇷🇺.<br><br>💻 I’ve worked across multiple domains including **Web & Mobile App Development (Flutter)**, **Data Analysis**, **Business Intelligence (BI)**, and **Decision Support Systems (DSS)**.<br><br> I’m also experienced in **Data Security**, focusing on **Encryption & Decryption techniques** to ensure safe data handling.<br><br> I love building innovative, accessible, and intelligent digital solutions that improve user experiences and decision-making.<br><br>📚 Currently enhancing my skills in **AI-driven applications** and **smart analytics** to bridge technology and business needs.<br><br> Always open to collaboration and new learning opportunities!
+# Hi there! I'm **Yassa Mouris**,
+a passionate **Software Developer** and **Management Information Systems graduate** from the Egyptian Russian University 🇪🇬 🇷🇺.<br><br>💻 I’ve worked across multiple domains including **Web & Mobile App Development (Flutter)**, **Data Analysis**, **Business Intelligence (BI)**, and **Decision Support Systems (DSS)**.<br><br> I’m also experienced in **Data Security**, focusing on **Encryption & Decryption techniques** to ensure safe data handling.<br><br> I love building innovative, accessible, and intelligent digital solutions that improve user experiences and decision-making.<br><br>📚 Currently enhancing my skills in **AI-driven applications** and **smart analytics** to bridge technology and business needs.<br><br> Always open to collaboration and new learning opportunities!
 
 <p align="center">
   <a href="https://yassaym7.github.io/my_portfolio/" target="_blank">
