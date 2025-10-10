@@ -1,4 +1,4 @@
-![blue-background-vector-png-7](https://github.com/user-attachments/assets/d90d52cd-c4d2-4751-9c0f-55a7b95367a7)
+<img width="1280" height="471" alt="—Pngtree—animated gif load the animation_16183071" src="https://github.com/user-attachments/assets/356c6c07-ff0a-4487-a68e-1d0e7c02b383" />
 
 
 # Hi there! I'm **Yassa Mouris**,
