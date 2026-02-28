@@ -1,4 +1,5 @@
-<img width="1280" height="471" alt="—Pngtree—animated gif load the animation_16183071" src="https://github.com/user-attachments/assets/356c6c07-ff0a-4487-a68e-1d0e7c02b383" />
+
+![hud-callout-titles-tech-digital-info-boxes-hud-templates-futuristic-text-boxes-png](https://github.com/user-attachments/assets/de0f6341-25b0-4562-a5b1-229e9a352cea)
 
 
 # Hi there! I'm **Yassa Mouris**,
@@ -27,14 +28,6 @@ a passionate **Software Developer** and **Management Information Systems graduat
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yassaYM7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 🚀 Thanks for Visiting my GitHub Profile!
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=FFA500&center=true&vCenter=true&lines=Thank+You+for+Visiting!;Keep+Coding+%F0%9F%92%BB;Stay+Curious+%26+Innovative+%F0%9F%8C%9F;Follow+for+More+Projects!">
-</p>
 
 
 ---
